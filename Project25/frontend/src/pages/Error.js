@@ -14,7 +14,7 @@ function ErrorPage() {
 
   if (error.status === 404) {
     title = "Page not found!";
-    message = "The page you requested could not be found.";
+    message = "Sorry the page you requested could not be found.";
   }
 
   return (
