@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"New event.","image":"https://media.istockphoto.com/id/974238866/photo/audience-listens-to-the-lecturer-at-the-conference.jpg?s=612x612&w=0&k=20&c=p_BQCJWRQQtZYnQlOtZMzTjeB_csic8OofTCAKLwT0M=","date":"2023-09-07","description":"New event.","id":"9eda01a2-8e9f-4227-b1f1-fe506ab7154e"}],"users":[{"email":"test@test.com","password":"$2a$12$rII7QgeOAHfTIbhzkn.cnuTIo3ovxVNBU1EFps5TjcXmvicQboLzK","id":"43299e26-a6c9-4dc0-9325-93e1b961ece0"},{"email":"test2@test.com","password":"$2a$12$SuUhkxjuvN.c/QoO3MP25uWEFl.y1oHNb0ntAqEOrLLF6a/RsOqwC","id":"e11204f9-d27d-4663-a0d0-e7f6c427bcf8"}]}
