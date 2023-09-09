@@ -2,7 +2,6 @@ import { createPortal } from "react-dom";
 import { motion } from "framer-motion";
 
 export default function Modal({ title, children, onClose }) {
-  //const hiddenAnimationState = { opacity: 0, y: 30 };
 
   return createPortal(
     <>
