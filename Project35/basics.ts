@@ -23,7 +23,7 @@ function printOutput(value: any) {
   console.log(value);
 }
 
-//Generics
+//Generics - Reusable blocks of code which can be used with different types
 function insertAtBeginning<T>(array: T[], value: T) {
   const newArray = [value, ...array];
   return newArray;
